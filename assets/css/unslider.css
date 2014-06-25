@@ -1,0 +1,28 @@
+.infusion-unslider {
+	position: relative;
+	width: 100%;
+	overflow: auto;
+}
+
+.infusion-unslider ul {
+	width: 300%;
+}
+
+.infusion-unslider li {
+	padding-top: 242px;
+	padding-bottom: 120px;
+}
+
+.infusion-unslider ul li {
+	list-style: none;
+
+	display: block;
+	float: left;
+	width: 33%;
+
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position:  center center;
+}
